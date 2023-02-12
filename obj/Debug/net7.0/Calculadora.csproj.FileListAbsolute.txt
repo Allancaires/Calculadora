@@ -1,0 +1,15 @@
+/home/dikronos/Projetos/Calculadora/bin/Debug/net7.0/Calculadora
+/home/dikronos/Projetos/Calculadora/bin/Debug/net7.0/Calculadora.deps.json
+/home/dikronos/Projetos/Calculadora/bin/Debug/net7.0/Calculadora.runtimeconfig.json
+/home/dikronos/Projetos/Calculadora/bin/Debug/net7.0/Calculadora.dll
+/home/dikronos/Projetos/Calculadora/bin/Debug/net7.0/Calculadora.pdb
+/home/dikronos/Projetos/Calculadora/obj/Debug/net7.0/Calculadora.csproj.AssemblyReference.cache
+/home/dikronos/Projetos/Calculadora/obj/Debug/net7.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/dikronos/Projetos/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfoInputs.cache
+/home/dikronos/Projetos/Calculadora/obj/Debug/net7.0/Calculadora.AssemblyInfo.cs
+/home/dikronos/Projetos/Calculadora/obj/Debug/net7.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/dikronos/Projetos/Calculadora/obj/Debug/net7.0/Calculadora.dll
+/home/dikronos/Projetos/Calculadora/obj/Debug/net7.0/refint/Calculadora.dll
+/home/dikronos/Projetos/Calculadora/obj/Debug/net7.0/Calculadora.pdb
+/home/dikronos/Projetos/Calculadora/obj/Debug/net7.0/Calculadora.genruntimeconfig.cache
+/home/dikronos/Projetos/Calculadora/obj/Debug/net7.0/ref/Calculadora.dll
