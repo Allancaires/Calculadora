@@ -20,7 +20,6 @@ entidade.N2 = Convert.ToDecimal(Console.ReadLine());
 
 if (entidade.operacao != "")
 {
-    ;
     Console.WriteLine(calculo.Calcular(entidade.N1, entidade.N2, entidade.operacao));   
 }
 else
